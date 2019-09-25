@@ -23,11 +23,11 @@
 }
 
 /* .container [class*="col-"] .container{
-  margin: 12px;
-  height: calc(100%-12px);
+  margin: 5px;
+  height: calc(100%-5px);
 
 }
 
 .container .container [class*="col-"]{
-  height: 98%;
+  calc(100%-5px);
 } */
