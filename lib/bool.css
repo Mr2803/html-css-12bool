@@ -18,6 +18,13 @@
 
 /* regole colonne */
 
+[class*="col-"]{
+  float:left;
+  height: 150px;
+  background:lightblue;
+  border:1px solid black;
+}
+
 .col-1{
   width:calc((100% / 12)*1)
 }
