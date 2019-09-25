@@ -3,10 +3,9 @@
 }
 
 .container > .col-6 > .col-2,
-.container > .col-6 > .col-8,
+.container >.col-6 > .col-8,
 .container > .col-6 > .col-6{
-  border:1px white solid;
-  margin:10px 0px;
-  height: 130px;
+  /* border:1px white solid; */
+
   background:rgb(75, 203, 141)
 }
