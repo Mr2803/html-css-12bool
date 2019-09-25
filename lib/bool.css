@@ -25,6 +25,11 @@
   border:1px solid black;
 }
 
+[class*="col-offset"]{
+  background:none;
+  border:0;
+}
+
 .col-1{
   width:calc((100% / 12)*1)
 }
