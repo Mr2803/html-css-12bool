@@ -1,6 +1,6 @@
 .container p{
   text-align: center;
-  margin-top: 70px;
+  margin-top: 67px;
 }
 
 .container [class*="col-"] .container{
@@ -20,6 +20,7 @@
   margin: 5px;
   height: calc(100% - 5px);
 }
+
 
 .container .container [class*="col-"]{
   height:calc(100% - 5px);
