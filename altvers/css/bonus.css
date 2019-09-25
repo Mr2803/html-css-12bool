@@ -1,1 +1,17 @@
+.container [class*="col-"] .container{
+  padding:5px;
+  height:100%;
+}
 
+.container .container [class*="col-"] {
+    height: 100%;
+    background:rgb(75, 203, 141);
+    border:1px solid black;
+}
+
+p{
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 70px;
+  font-weight: bold;
+}
