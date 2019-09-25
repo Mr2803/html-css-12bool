@@ -68,44 +68,39 @@
 
 /* offset */
 
-[class*="col-offset"]{
-  background:none;
-  border:0;
-}
-
 .col-offset1{
-  width:calc((100% / 12)*1)
+  margin-left:calc((100% / 12)*1)
 }
 .col-offset2{
-  width:calc((100% / 12)*2)
+  margin-left:calc((100% / 12)*2)
 }
 .col-offset3{
-  width:calc((100% / 12)*3)
+  margin-left:calc((100% / 12)*3)
 }
 .col-offset4{
-  width:calc((100% / 12)*4)
+  margin-left:calc((100% / 12)*4)
 }
 .col-offset5{
-  width:calc((100% / 12)*5)
+  margin-left:calc((100% / 12)*5)
 }
 .col-offset6{
-  width:calc((100% / 12)*6)
+  margin-left:calc((100% / 12)*6)
 }
 .col-offset7{
-  width:calc((100% / 12)*7)
+  margin-left:calc((100% / 12)*7)
 }
 .col-offset8{
-  width:calc((100% / 12)*8)
+  margin-left:calc((100% / 12)*8)
 }
 .col-offset9{
-  width:calc((100% / 12)*9)
+  margin-left:calc((100% / 12)*9)
 }
 .col-offset10{
-  width:calc((100% / 12)*10)
+  margin-left:calc((100% / 12)*10)
 }
 .col-offset11{
-  width:calc((100% / 12)*11)
+  margin-left:calc((100% / 12)*11)
 }
 .col-offset12{
-  width:calc((100% / 12)*12)
+  margin-left:calc((100% / 12)*12)
 }
