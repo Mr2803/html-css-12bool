@@ -9,3 +9,25 @@
 
   background:rgb(75, 203, 141)
 }
+
+
+.container [class*="col-"] .container{
+  padding:5px;
+  height:100%;
+}
+
+.container .container [class*="col-"] {
+    height: 100%;
+    background:rgb(75, 203, 141);
+    border:1px white solid;
+}
+
+/* .container [class*="col-"] .container{
+  margin: 12px;
+  height: calc(100%-12px);
+
+}
+
+.container .container [class*="col-"]{
+  height: 98%;
+} */
