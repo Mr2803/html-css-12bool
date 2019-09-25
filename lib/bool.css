@@ -25,10 +25,7 @@
   border:1px solid black;
 }
 
-[class*="col-offset"]{
-  background:none;
-  border:0;
-}
+
 
 .col-1{
   width:calc((100% / 12)*1)
@@ -70,6 +67,12 @@
 
 
 /* offset */
+
+[class*="col-offset"]{
+  background:none;
+  border:0;
+}
+
 .col-offset1{
   width:calc((100% / 12)*1)
 }
