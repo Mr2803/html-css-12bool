@@ -6,7 +6,6 @@
 .container > .col-6 > .col-8,
 .container > .col-6 > .col-6{
   border:1px white solid;
-  box-sizing: border-box;
   margin:10px 0px;
   height: 130px;
   background:rgb(75, 203, 141)
