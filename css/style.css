@@ -1,3 +1,10 @@
+
+[class*="col-"]{
+  height: 150px;
+  background:lightblue;
+  border:1px solid black;
+}
+
 .container p{
   text-align: center;
   margin-top: 67px;
